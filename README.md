@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noormotaz
-- 👀 I’m interested in developing new solutions for current issues
+- 👀
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me: email
