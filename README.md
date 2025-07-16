@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noormotaz
 - 👀
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently studying Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me: email
 
